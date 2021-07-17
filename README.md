@@ -9,6 +9,9 @@ Talking about Personal Stuffs:
 💬 If you have any questions, just ask me.<br>
 📫 Please contact me via email: shahshubham172@gmail.com<br>
 
+
+⚡ Fun fact: I love cats more than dogs <br>
+
 ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shubhamshah17&layout=compact&theme=tokyonight)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shubhamshah17&theme=tokyonight)
