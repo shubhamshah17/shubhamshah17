@@ -2,12 +2,12 @@
 
 Talking about Personal Stuffs:
 
-👨‍🏛 I'm currently a student at K.J Somaiya College of Engineering and IT.
+👨‍🏛 I'm currently a student at K.J Somaiya College of Engineering and IT.<br>
 <!-- 💻 Major is big App development. -->
-🌱 I'm currently learning Web development.
-🤔 My hobbies are coding, photography, playing chess and table tennis.
-💬 If you have any questions, just ask me.
-📫 Please contact me via email: shahshubham172@gmail.com
+🌱 I'm currently learning Web development.<br>
+🤔 My hobbies are coding, photography, playing chess and table tennis.<br>
+💬 If you have any questions, just ask me.<br>
+📫 Please contact me via email: shahshubham172@gmail.com<br>
 
 ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shubhamshah17&layout=compact&theme=tokyonight)
 
