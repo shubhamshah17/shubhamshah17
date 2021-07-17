@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there, I'm Shubham
+I am a Third Year Computer Science Student based in Mumbai, India. My hobbies include reading, photography, coding and playing table tennis.
 
 <!--
 **shubhamshah17/shubhamshah17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
