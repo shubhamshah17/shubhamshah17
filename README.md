@@ -4,8 +4,8 @@ Talking about Personal Stuffs:
 
 👨‍🏛 I'm currently a student at K.J Somaiya College of Engineering and IT.
 <!-- 💻 Major is big App development. -->
-🌱 I'm currently learning Web development.<br>
-🤔 My hobbies are coding, photography, playing chess and table tennis.<br>
+🌱 I'm currently learning React Native.<br>
+🤔 My hobbies are programming, photography, playing chess and table tennis.<br>
 💬 If you have any questions, just ask me.<br>
 📫 Please contact me via email: shahshubham172@gmail.com<br>
 
@@ -31,4 +31,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+Languages: C, C++, Java, Python, HTML5, CSS, JavaScript, MySQL
+Frameworks: React.js, React-Native
+Relevant Skills: Bootstrap, AdobeXD, Git, Firebase
+Technology: Android Dev using Android Studio
 -->
