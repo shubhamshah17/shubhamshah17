@@ -16,6 +16,7 @@ Talking about Personal Stuffs:
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shubhamshah17&theme=tokyonight)
 
+- Contact me on <a href="https://www.linkedin.com/in/shubham-shah-70880b227/">LinkedIn</a> 💼
 <!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shubhamshah17&show_icons=true&layout=compact&theme=tokyonight) -->
 
 <!--
