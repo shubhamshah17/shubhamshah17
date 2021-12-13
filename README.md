@@ -2,7 +2,7 @@
 
 Talking about Personal Stuffs:
 
-👨‍🏛 I'm currently a student at K.J Somaiya College of Engineering and IT.
+👨‍🏛 I'm currently a student at K.J Somaiya Institute of Engineering and IT.
 <!-- 💻 Major is big App development. -->
 🌱 I'm currently learning React Native.<br>
 🤔 My hobbies are programming, photography, playing chess and table tennis.<br>
