@@ -12,11 +12,11 @@ Talking about Personal Stuffs:
 
 ⚡ Fun fact: I love cats more than dogs <br>
 
-Skills:
-Languages: C, C++, Java, Python, HTML5, CSS, JavaScript, MySQL
-Frameworks: React.js, React-Native
-Relevant Skills: Bootstrap, AdobeXD, Git, Firebase
-Technology: Android Dev using Android Studio
+Skills:<br>
+Languages: C, C++, Java, Python, HTML5, CSS, JavaScript, MySQL<br>
+Frameworks: React.js, React-Native<br>
+Relevant Skills: Bootstrap, AdobeXD, Git, Firebase<br>
+Technology: Android Dev using Android Studio<br>
 
 ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shubhamshah17&layout=compact&theme=tokyonight)
 
