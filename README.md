@@ -2,9 +2,9 @@
 
 Talking about Personal Stuffs:
 
-👨‍🏛 I'm currently a student at K.J Somaiya Institute of Engineering and IT.
-<!-- 💻 Major is big App development. -->
-🌱 I'm currently learning React Native.<br>
+💻  Currently working as a software developer at Piramal Pharma Ltd.
+👨‍🏛 Computer Science graduate from K.J Somaiya Institute of Technology.
+🌱 I'm currently learning React.<br>
 🤔 My hobbies are programming, photography, playing chess and table tennis.<br>
 💬 If you have any questions, just ask me.<br>
 📫 Please contact me via email: shahshubham172@gmail.com<br>
@@ -15,8 +15,8 @@ Talking about Personal Stuffs:
 Skills:<br>
 Languages: C, C++, Java, Python, HTML5, CSS, JavaScript, MySQL<br>
 Frameworks: React.js, React-Native<br>
-Relevant Skills: Bootstrap, AdobeXD, Git, Firebase<br>
-Technology: Android Dev using Android Studio<br>
+Relevant Skills: Azure Data Factory, Git, Firebase<br>
+Technology: Azure, Android App Development<br>
 
 ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shubhamshah17&layout=compact&theme=tokyonight)
 
