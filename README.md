@@ -3,7 +3,7 @@
 Talking about Personal Stuffs:
 
 💻  Currently working as a software developer at Piramal Pharma Ltd.<br>
-👨‍🏛 Computer Science graduate from K.J Somaiya Institute of Technology.<br>
+🏫 Computer Science graduate from K.J Somaiya Institute of Technology.<br>
 🌱 I'm currently learning React.<br>
 🤔 My hobbies are programming, photography, playing chess and table tennis.<br>
 💬 If you have any questions, just ask me.<br>
