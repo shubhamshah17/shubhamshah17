@@ -2,7 +2,7 @@
 
 Talking about Personal Stuffs:
 
-💻  Currently working as a software developer at Piramal Pharma Ltd.<br>
+💻  Currently working as a software developer at Accenture<br>
 🏫 Computer Science graduate from K.J Somaiya Institute of Technology.<br>
 🌱 I'm currently learning Microservices.<br>
 🤔 My hobbies are programming, photography, playing chess and table tennis.<br>
